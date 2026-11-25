@@ -28,7 +28,7 @@ let package = Package(
   dependencies: [
     .package(
       url: "https://github.com/ODCFrontend/adsurge-adn-ios.git",
-      exact: "2.0.1"
+      exact: "2.0.2"
     ),
     .package(
       url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
@@ -48,7 +48,7 @@ let package = Package(
     .binaryTarget(
       name: "AdSurgeAdapter",
       url:
-        "https://dl.google.com/googleadmobadssdk/mediation/ios/adsurge/AdSurgeAdapter-2.0.1.0.zip",
+        "https://dl.google.com/googleadmobadssdk/mediation/ios/adsurge/AdSurgeAdapter-2.0.2.0.zip",
       checksum: "32e3f393a76a860fa8d408b3a7797d0fd60ef9ae25a41455c1b75654ea1b9b94"
     ),
   ]
