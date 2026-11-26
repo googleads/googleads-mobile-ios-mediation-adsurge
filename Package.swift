@@ -49,7 +49,7 @@ let package = Package(
       name: "AdSurgeAdapter",
       url:
         "https://dl.google.com/googleadmobadssdk/mediation/ios/adsurge/AdSurgeAdapter-2.0.2.0.zip",
-      checksum: "32e3f393a76a860fa8d408b3a7797d0fd60ef9ae25a41455c1b75654ea1b9b94"
+      checksum: "00c942fc33e706046b5c8438621ca6fdc7d6fbcd4a6c9065cd08cd2ace53b1bf"
     ),
   ]
 )
